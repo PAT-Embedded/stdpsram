@@ -30,4 +30,4 @@ The code shows how to allocate and use PSRAM for various standard containers, ma
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/PAT-IOT/stdpsram.git
+   git clone https://github.com/PATEmbedded/stdpsram.git
